@@ -1,0 +1,12 @@
+{
+	"tokenColors": "./ResoluTech_DarkHighContrast.tmTheme",
+	"colors": {
+		"editor.background": "#26292C",
+		"editorCursor.foreground": "#F8F8F0",
+		"editor.foreground": "#F8F8F2",
+		"editorWhitespace.foreground": "#3B3A32",
+		"editor.lineHighlightBackground": "#202325",
+		"editor.selectionBackground": "#0000AA"
+	},
+	"name": "ResoluTech - Dark but visble text"
+}
